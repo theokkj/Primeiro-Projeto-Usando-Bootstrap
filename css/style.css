@@ -1,0 +1,46 @@
+body {
+    font-family: Poppins;
+}
+
+.navbar {
+    background-color: #333;
+    padding-left: 30px;
+}
+
+.quem-somos {
+    background-color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.parceiros {
+    background-color: #fcfcfc;
+}
+
+.col-lg-6 h4 {
+    text-align: left;
+}
+
+.bg-footer {
+    background-color: black;
+    margin-bottom: 0;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+#logo {
+    margin-right: 15px;
+}
+
+.a {
+    font-family: Poppins;
+    font-weight: regular;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
